@@ -10,4 +10,4 @@ Download webdriver for Chrome
 ## Usage
 
 this module can login github with automation.Firstly,it should written username and password on Userinfo file.
-You can extract the username of following Users with this module, and showing the that information after executing the modul.
+You can extract the username of following Users with this module, and showing that information after executing the modul.
